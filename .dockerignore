@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.husky/
+.github
+.gitignore
+.eslintrc
+.prettierrc
+.nvmrc
+commitlint.config.js
